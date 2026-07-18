@@ -1,0 +1,16 @@
+Omar Brooks
+omar.brooks@email.com | +1 305 555 0215
+
+SUMMARY
+Mobile engineer building native iOS and Android applications for consumer products.
+
+SKILLS
+Swift, Kotlin, React Native, Firebase, REST APIs, CI/CD
+
+EXPERIENCE
+Mobile Developer, AppNova
+- Launched cross-platform features for a top-rated shopping app.
+- Increased monthly active users by 18%.
+
+EDUCATION
+B.S. Computer Engineering, Florida International University

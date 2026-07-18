@@ -1,0 +1,16 @@
+Ava Patel
+ava.patel@email.com | +1 415 555 0111
+
+SUMMARY
+Software engineer with 5 years of experience building scalable web applications and APIs.
+
+SKILLS
+Python, FastAPI, Flask, PostgreSQL, Docker, AWS, React, JavaScript
+
+EXPERIENCE
+Senior Backend Engineer, Northstar Labs
+- Built and maintained REST APIs serving 2M+ users.
+- Reduced latency by 35% through query optimization.
+
+EDUCATION
+B.S. Computer Science, University of California, Berkeley

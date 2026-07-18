@@ -1,0 +1,16 @@
+Noah Williams
+noah.williams@email.com | +1 206 555 0167
+
+SUMMARY
+DevOps engineer experienced in cloud infrastructure, CI/CD, and monitoring for high-traffic systems.
+
+SKILLS
+AWS, Kubernetes, Terraform, Jenkins, Linux, Python, Prometheus, Grafana
+
+EXPERIENCE
+Site Reliability Engineer, CloudFrame
+- Managed Kubernetes clusters supporting 100+ services.
+- Reduced deployment failures by 40% with automated rollouts.
+
+EDUCATION
+B.S. Information Technology, University of Washington

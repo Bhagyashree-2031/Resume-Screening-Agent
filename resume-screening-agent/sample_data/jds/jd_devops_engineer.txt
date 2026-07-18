@@ -1,0 +1,3 @@
+DevOps Engineer
+
+We are seeking a DevOps Engineer with expertise in AWS, Kubernetes, Terraform, CI/CD, Linux, and monitoring tools such as Prometheus and Grafana. Candidates should have strong experience in automation, deployment pipelines, and cloud infrastructure management.

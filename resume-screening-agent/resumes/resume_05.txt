@@ -1,0 +1,16 @@
+Priya Shah
+priya.shah@email.com | +1 917 555 0142
+
+SUMMARY
+QA automation engineer specializing in test frameworks and continuous integration.
+
+SKILLS
+Selenium, Playwright, Cypress, Java, Python, CI/CD, API Testing
+
+EXPERIENCE
+Automation Test Engineer, Verity Systems
+- Built end-to-end regression suites covering web and mobile flows.
+- Cut release testing time by 50%.
+
+EDUCATION
+B.Tech in Computer Science, IIT Delhi

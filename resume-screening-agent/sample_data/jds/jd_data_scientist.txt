@@ -1,0 +1,3 @@
+Data Scientist
+
+We are hiring a Data Scientist with experience in Python, machine learning, SQL, PyTorch, scikit-learn, and analytics pipelines. Preferred background includes building forecasting models, deploying ML workflows, and working with large datasets.

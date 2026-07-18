@@ -1,0 +1,100 @@
+Job Title: Software Engineer (Full Stack)
+
+Location: Bengaluru, India
+
+Experience: 0–2 Years
+
+Employment Type: Full-Time
+
+Job Description
+
+We are looking for a highly motivated Software Engineer to join our product engineering team. The ideal candidate should have strong problem-solving skills, a passion for software development, and experience building scalable web applications.
+
+Key Responsibilities
+
+• Design, develop, test, and maintain web applications.
+• Build RESTful APIs and integrate frontend with backend services.
+• Write clean, maintainable, and efficient code.
+• Collaborate with cross-functional teams using Agile methodologies.
+• Participate in code reviews and debugging.
+• Optimize application performance and scalability.
+• Work with databases and cloud services.
+• Maintain documentation and follow software engineering best practices.
+
+Required Skills
+
+• Python
+• Java
+• SQL
+• JavaScript
+• HTML
+• CSS
+• React.js
+• Node.js
+• Django
+• Flask
+• REST APIs
+• Git
+• GitHub
+• Docker
+• Linux
+• Object-Oriented Programming
+• Data Structures and Algorithms
+
+Preferred Skills
+
+• FastAPI
+• Spring Boot
+• MongoDB
+• PostgreSQL
+• Redis
+• Kubernetes
+• AWS
+• Azure
+• Google Cloud Platform (GCP)
+• CI/CD
+• Jenkins
+• Microservices
+• Unit Testing
+• PyTest
+• Swagger
+• Postman
+
+AI / Data Skills (Preferred)
+
+• Machine Learning
+• Deep Learning
+• TensorFlow
+• PyTorch
+• Scikit-learn
+• Pandas
+• NumPy
+• Data Visualization
+
+Education
+
+Bachelor's degree in Computer Science, Information Technology, Electronics, or a related field.
+
+Preferred Qualifications
+
+• Internship experience in software development.
+• Strong communication and teamwork skills.
+• Familiarity with Git workflows.
+• Knowledge of cloud deployment.
+• Passion for learning new technologies.
+
+Nice to Have
+
+• Open-source contributions.
+• Personal GitHub projects.
+• Experience with Docker Compose.
+• Experience using AI APIs such as OpenAI or Groq.
+• Familiarity with Streamlit.
+
+What We Offer
+
+• Competitive salary.
+• Flexible work environment.
+• Mentorship from senior engineers.
+• Opportunity to work on AI-powered products.
+• Career growth and continuous learning.

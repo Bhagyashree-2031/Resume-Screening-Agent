@@ -1,0 +1,3 @@
+Senior Backend Engineer
+
+We are looking for a Senior Backend Engineer with strong experience in Python, FastAPI, PostgreSQL, Docker, AWS, and building scalable APIs. The ideal candidate should have 3+ years of backend development experience and be comfortable working on performance optimization, cloud deployment, and system reliability.

@@ -1,0 +1,16 @@
+Sara Hassan
+sara.hassan@email.com | +1 773 555 0204
+
+SUMMARY
+Cybersecurity analyst focused on security operations, incident response, and cloud hardening.
+
+SKILLS
+Splunk, SIEM, Python, Linux, AWS, Threat Hunting, Incident Response
+
+EXPERIENCE
+Security Analyst, NetShield
+- Investigated and remediated security incidents for enterprise clients.
+- Reduced alert fatigue by implementing detection tuning.
+
+EDUCATION
+M.S. Cybersecurity, New York University

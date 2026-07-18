@@ -1,0 +1,3 @@
+QA Automation Engineer
+
+We are looking for a QA Automation Engineer with hands-on experience in Selenium, Playwright, Cypress, API testing, Python, Java, and CI/CD. Strong candidates can build robust automation frameworks and improve regression coverage across web and mobile applications.

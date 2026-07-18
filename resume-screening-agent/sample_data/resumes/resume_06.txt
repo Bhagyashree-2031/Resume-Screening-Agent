@@ -1,0 +1,16 @@
+Liam Chen
+liam.chen@email.com | +1 650 555 0189
+
+SUMMARY
+Frontend engineer with 4 years of experience designing high-performance React applications.
+
+SKILLS
+React, TypeScript, Next.js, Node.js, CSS, HTML, Jest
+
+EXPERIENCE
+Frontend Developer, PixelForge
+- Built reusable component libraries for enterprise web apps.
+- Improved page load speed by 28%.
+
+EDUCATION
+B.S. Software Engineering, University of Illinois

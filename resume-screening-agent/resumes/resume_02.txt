@@ -1,0 +1,16 @@
+Daniel Kim
+daniel.kim@email.com | +1 646 555 0198
+
+SUMMARY
+Data scientist focused on machine learning, forecasting, and analytics product development.
+
+SKILLS
+Python, scikit-learn, PyTorch, SQL, Tableau, Spark, Airflow
+
+EXPERIENCE
+Machine Learning Engineer, BluePeak Analytics
+- Developed churn prediction models improving retention by 12%.
+- Deployed production pipelines using Airflow and Docker.
+
+EDUCATION
+M.S. Data Science, Georgia Tech

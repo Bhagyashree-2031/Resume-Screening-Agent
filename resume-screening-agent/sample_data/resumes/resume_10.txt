@@ -1,0 +1,16 @@
+Ethan Brooks
+ethan.brooks@email.com | +1 617 555 0237
+
+SUMMARY
+Solutions architect with experience designing distributed systems and cloud-native platforms.
+
+SKILLS
+Java, Spring Boot, Microservices, Azure, Kafka, Docker, Kubernetes
+
+EXPERIENCE
+Solutions Architect, Northwind Systems
+- Designed event-driven architecture for large-scale e-commerce platform.
+- Guided migration to Azure-based services.
+
+EDUCATION
+M.S. Computer Science, Carnegie Mellon University
