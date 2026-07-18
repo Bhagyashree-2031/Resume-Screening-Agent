@@ -107,9 +107,6 @@ GROQ_API_KEY=Your API key
 streamlit run app.py
 ```
 
-## Screenshots Placeholder
-
-- Add screenshots of the upload screen and ranking results here.
 
 ## Future Improvements
 
